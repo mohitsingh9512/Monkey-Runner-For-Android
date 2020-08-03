@@ -3,6 +3,6 @@ The monkeyrunner tool provides an API for writing programs that control an Andro
 
 The monkeyrunner tool is not related to the UI/Application Exerciser Monkey, also known as the monkey tool. The monkey tool runs in an adb shell directly on the device or emulator and generates pseudo-random streams of user and system events. In comparison, the monkeyrunner tool controls devices and emulators from a workstation by sending specific commands and events from an API. 
 
-# Monkey runner script for testing android app 
-# Handles monkey runner going off from the app
-# Stores all the output to monkey_testing.txt
+**Monkey runner script for testing android app**
+**Handles monkey runner going off from the app**
+**Stores all the output to monkey_testing.txt**
